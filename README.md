@@ -44,7 +44,14 @@
 
 # 3\. Run the executable
 
-# 
+# Media
+
+# Screenshots
+See the images folder for front and top views of the stadium.
+
+# Demo Video
+A short screen recording demonstrating the 3D OpenGL stadium model.
+
 
 # \# Author
 
