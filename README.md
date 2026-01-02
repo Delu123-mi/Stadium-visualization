@@ -1,4 +1,4 @@
-# \# OpenGL Stadium Project
+# OpenGL Stadium Project
 
 # 
 
