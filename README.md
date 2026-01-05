@@ -55,7 +55,7 @@ A short screen recording demonstrating the 3D OpenGL stadium model.
 
 # \# Author
 
-# Hermela  
+# Hermela  G/Egziabher
 
 # Computer Science \& Engineering – ASTU
 
